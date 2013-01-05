@@ -8,6 +8,12 @@ Description :
 
 ===============
 
+Source :
+
+http://leaverou.github.com/prefixfree/
+
+===============
+
 Installation :
 
 - Mettre UNIQUEMENT le dossier "prefixfree" dans le dossier "plugins".
